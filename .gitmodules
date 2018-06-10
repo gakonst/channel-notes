@@ -1,0 +1,6 @@
+[submodule "amiller-tinyduplex"]
+	path = amiller-tinyduplex
+	url = https://gist.github.com/amiller/0a569536c2b5e99b307b853cbba810f6
+[submodule "sprites/amiller-sprites"]
+	path = sprites/amiller-sprites
+	url = https://github.com/amiller/sprites
