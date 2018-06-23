@@ -16,3 +16,17 @@ Virtual payment hubs - multihop - used by SpankChain & Connext (connext was goin
 
 [ethresearch](https://ethresear.ch/t/perun-virtual-payment-and-state-channel-networks/1685)
 
+[Connext Docs](http://docs.connext.network/api.html)
+
+[Connext Github](https://github.com/ConnextProject)
+
+## Paper
+
+- Ledger Channel: Payment channel between 2 parties. - classic payment channel.
+- Virtual Channel: Connects Ledger Channels. Applies the channel technique recursively, i.e. Alice and Bob may not have a direct connection with each other, but if Alice has a channel with Ingrid, and Ingrid has a channel with Bob, they can exchange funds. This is a hub based model!
+
+![]('./figs/virt-chan-1.png')
+![]('./figs/virt-chan-2.png')
+![]('./figs/defs.png')
+
+
