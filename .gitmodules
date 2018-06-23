@@ -4,3 +4,6 @@
 [submodule "sprites/amiller-sprites"]
 	path = sprites/amiller-sprites
 	url = https://github.com/amiller/sprites
+[submodule "perun/Perun"]
+	path = perun/Perun
+	url = https://github.com/PerunEthereum/Perun
